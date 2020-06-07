@@ -1,0 +1,49 @@
+.dots{
+    background-color: #AADFD0;
+    margin-top: 30px;
+    width: 100%;
+}
+.dot {
+    height: 90px;
+    width: 90px;
+    background-color: #215E9F;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.circle{
+    padding-left: 65px;
+    padding-top: 10px;
+}
+.tips{
+    text-align: justify;
+    padding-left: 25px;
+}
+.blog{
+    padding: 58px;
+}
+.but1{
+    background-color: #215E9F;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 9px;
+}
+.row .abc{
+    padding-left: 14px;
+    padding-top: -10px;
+}
+.founders{
+    padding-left: 90px;
+    padding-top: 55px;
+}
+.footer{
+    padding: 60px 20px 20px;
+    background-color: #2788CC;
+    color: white;
+}
